@@ -7,13 +7,6 @@
 ## 🇺🇸 English Language
 # 🎮 7 Days to Die - Discord Rich Presence Mod
 Bring your game to life on Discord with this mod that displays real-time in-game details for 7 Days to Die.
-
-## 📁 Library References
-- HarmonyLib (0Harmony)
-- DiscordRPC
-- Assembly-CSharp
-- UnityEngine
-- LobLibrary
   
 ## ✨ Features
 
