@@ -36,7 +36,8 @@
     </InGameButton>
     
     <ShowZombieKills>true</ShowZombieKills>  <!-- ปิด หรือ เปิด การแสดงผลจำนวนซอมบี้ที่ฆ่า (True / False) --> 
-    <ShowLevel>true</ShowLevel>  <!-- ปิด หรือ เปิด การแสดงผลเลเวลผู้เล่น (True / False) --> 
+    <ShowLevel>true</ShowLevel>  <!-- ปิด หรือ เปิด การแสดงผลเลเวลผู้เล่น (True / False) -->
+    <UseGameName>true</UseGameName> <!-- ปิด หรือ เปิด การเรียกใช้ ชื่อของ GameName แทน ServerName -->﻿
 </Config>
 ```
 
