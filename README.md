@@ -38,7 +38,8 @@ Bring your game to life on Discord with this mod that displays real-time in-game
     </InGameButton>
     
     <ShowZombieKills>true</ShowZombieKills>  <!-- Turn On / Off ShowZombieKills (True / False) --> 
-    <ShowLevel>true</ShowLevel>  <!-- Turn On / Off ShowPlayerLevel (True / False) --> 
+    <ShowLevel>true</ShowLevel>  <!-- Turn On / Off ShowPlayerLevel (True / False) -->
+    <UseGameName>true</UseGameName> <!-- Turn On / Off Use GameName Instead ServerName -->﻿
 </Config>
 ```
 
